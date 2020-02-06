@@ -5,7 +5,7 @@ A free display font created by DesignBro.
 Website: https://designbro.com
 
 
-Odibee Sans is a sans-serif font project by the DesignBro.com team. 
+Bronovo is a sans-serif font project by the DesignBro.com team. 
 
 --------------
 
